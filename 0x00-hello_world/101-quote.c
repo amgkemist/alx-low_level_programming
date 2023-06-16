@@ -2,7 +2,7 @@
 /**
  * main - prints to string
  *
- * Description: Prints "and that piece of art is useful.." without puts
+ * Description: Prints quote
  *
  * Return: 1
  */
