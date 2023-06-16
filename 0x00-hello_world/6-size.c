@@ -9,13 +9,13 @@ int main(void)
 {
 	char cha;
 	int i;
-	long long int lli;
 	long int li;
+	long long int lli;
 	float f;
-	printf("size of char: %i byte(s)\n", sizeof(cha));
-	printf("size of int: %i byte(s)\n", sizeof(i));
-	printf("size of long long int:%i byte(s)\n", sizeof(lli));
-	printf("size of long int: %i byte(s)\n", sizeof(li));
-	printf("size of float: %i byte(s)\n", sizeof(f));
+	printf("size of char: %d byte(s)\n", sizeof(cha));
+	printf("size of int: %d byte(s)\n", sizeof(i));
+	printf("size of long int:%d byte(s)\n", sizeof(li));
+	printf("size of long long int: %d byte(s)\n", sizeof(lli));
+	printf("size of float: %d byte(s)\n", sizeof(f));
 	return (0);
 }
