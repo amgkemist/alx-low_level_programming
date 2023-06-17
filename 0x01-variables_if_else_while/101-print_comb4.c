@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: A program that prints triple digits
+ * Description: A program that print triple digits
  *
  * Return: Always 0 (Success)
  */
