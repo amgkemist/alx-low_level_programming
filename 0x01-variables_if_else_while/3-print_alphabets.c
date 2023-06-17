@@ -3,11 +3,10 @@
 /**
  * main - Entry point
  *
- * Description: A program that prints the letters of the alphabet in lower then in uppercase
+ * Description: A program that prints alphabet in lower then uppercase
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int i, j;
