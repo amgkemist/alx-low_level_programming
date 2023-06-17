@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * Description: print single digit numbers with commas
+ * Description: A program that print digits combination
  *
  * Return: Always 0 (Success)
  */
